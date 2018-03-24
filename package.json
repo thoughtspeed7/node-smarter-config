@@ -1,0 +1,16 @@
+{
+  "name": "node-smarter-config",
+  "version": "1.0.0",
+  "description": "Node.js Best Practices - Smarter Ways to Manage Config Files and Variables",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Raj Chaudhary",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "lodash": "^4.17.5"
+  }
+}
