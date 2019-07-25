@@ -1,3 +1,6 @@
 # om namah shivay
 
 node_modules/
+
+# Intellij IDEA
+.idea

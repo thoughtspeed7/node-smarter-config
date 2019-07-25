@@ -9,8 +9,8 @@
   },
   "author": "Raj Chaudhary",
   "license": "ISC",
-  "dependencies": {
-    "express": "^4.16.3",
-    "lodash": "^4.17.5"
+  "dependencies": {},
+  "devDependencies": {
+    "express": "^4.17.1"
   }
 }
